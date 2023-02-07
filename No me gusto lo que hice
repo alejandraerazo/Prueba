@@ -1,0 +1,11 @@
+Revert "tercer intento porque el anterior me fallo"
+
+This reverts commit 74cc51f508aa40db56d50adcca93ba1da9208e75.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   Intento1.rtf
+#
